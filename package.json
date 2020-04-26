@@ -1,0 +1,36 @@
+{
+  "name": "Ima_Put_Yall_On",
+  "version": "1.0.0",
+  "description": "A twitter bot that helps junior developers find Entry Level / Junior Positions",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11",
+    "unique-random-array": "^2.0.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "apprenticeships",
+    "bot",
+    "juniors",
+    "entry-level",
+    "jobs",
+    "portfolio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umpp101/ImaPutYallOn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umpp101/ImaPutYallOn/issues"
+  },
+  "homepage": "https://github.com/umpp101/ImaPutYallOn#readme"
+}
